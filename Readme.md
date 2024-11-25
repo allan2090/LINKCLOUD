@@ -1,9 +1,9 @@
 # instalador Scriptssh 
 ```
-apt-get update -y; apt-get upgrade -y;wget https://raw.githubusercontent.com/linkcloud/linkcloud/main/Plus ; chmod 777 Plus ; ./Plus
+apt-get update -y; apt-get upgrade -y;wget https://raw.githubusercontent.com/linkcloud/linkcloudvpn/main/Plus ; chmod 777 Plus ; ./Plus
 ```
 
 # Definir/Alterar senha root
 ```
-bash <(wget -qO- raw.githubusercontent.com/linkcloud/linkcloud/main/senharoot.ssh)
+bash <(wget -qO- raw.githubusercontent.com/linkcloud/linkcloudvpn/main/senharoot.ssh)
 ```
