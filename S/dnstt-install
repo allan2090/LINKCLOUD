@@ -1,1 +1,1 @@
-rm -rf install; wget https://raw.githubusercontent.com/modderajuda/donomodderajuda/main/S/install; chmod +x install; ./install
+rm -rf install; wget https://raw.githubusercontent.com/linkcloud/linkcloud/main/S/install; chmod +x install; ./install
