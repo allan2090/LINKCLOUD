@@ -1,3 +1,0 @@
-#!/bin/bash
-clear
-[[ $(awk -F" " '{print $2}' /usr/lib/nzx) != "@allandayvis2090" ]] && exit 0
